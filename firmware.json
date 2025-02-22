@@ -1,7 +1,6 @@
 {
   "firmware": [
     "RC_Car.bin",
-    "Sensor_Node.bin",
-    "New_Feature.bin"
+    "WIFI_DEAUTH_v2.bin"
   ]
 }
