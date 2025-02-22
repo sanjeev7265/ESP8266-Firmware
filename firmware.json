@@ -1,0 +1,7 @@
+{
+  "firmware": [
+    "RC_Car.bin",
+    "Sensor_Node.bin",
+    "New_Feature.bin"
+  ]
+}
